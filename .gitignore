@@ -1,0 +1,6 @@
+myenv/
+.vscode
+.DS_Store
+data/train_data
+__pycache__/
+.idea

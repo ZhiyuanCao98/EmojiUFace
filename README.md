@@ -1,12 +1,12 @@
-# CS4100-final-project: EmojiUFace
+# AI-final-project: EmojiUFace
 Instantly recognize the facial expression and generate a corresponding emoji based on user emotion.
 
 ## Group Member:
+Zhiyuan Cao 
 Bowen Lei
-
 Jiahao Cai
 
-Zhiyuan Cao 
+
 
 # Installation # 
 
